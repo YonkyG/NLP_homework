@@ -1,0 +1,34 @@
+Claim 70: Activation of PPM1D suppresses p53 function.
+
+Claim Label: SUPPORT
+
+No.1 Verification: SUPPORT
+
+Document Title: Mosaic PPM1D mutations are associated with predisposition to breast and ovarian cancer
+
+Related Evidence: 
+[1]: Functional studies demonstrate that the mutations result in enhanced suppression of p53 in response to ionizing radiation exposure, suggesting that the mutant alleles encode hyperactive PPM1D isoforms.
+
+No.2 Verification: SUPPORT
+
+Document Title: Exome sequencing identifies somatic gain-of-function PPM1D mutations in brainstem gliomas
+
+Related Evidence: 
+[1]: PPM1D mutations were mutually exclusive with TP53 mutations in BSG and attenuated p53 activation in vitro. 
+[2]: PPM1D mutations were truncating alterations in exon 6 that enhanced the ability of PPM1D to suppress the activation of the DNA damage response checkpoint protein CHK2.
+
+No.3 Verification: NOT_ENOUGH_INFO
+
+Document Title: An acetylation switch in p53 mediates holo-TFIID recruitment.
+
+Related Evidence: None
+
+{"claim_id": 1, "doc_ids": [5956380, 7225911, 4414547, 4389394, 21307488, 43880096, 9169645, 47018050, 11903247, 23985464, 42489926, 9669099, 25682129, 36464673, 35684881, 37204802, 25901598, 21557055, 27949347, 21521236, 39637840, 6896063, 9483851, 12240507, 10015292, 11861374, 27240699, 14460402, 2582169, 7465900, 28107602, 12762485, 10247314, 1171121, 5254463, 34103335, 26059876, 36271512, 31624828, 24721866, 8654183, 34445160, 40901687, 4460880, 38919140, 29367554, 19450341, 6670101, 23912923, 6363093, 20738970, 24737389, 46594244, 3748310, 33030946, 21295300, 9899292, 9178310, 15521377, 23273454, 5979056, 7820043, 18399038, 164189, 3973445, 14367469, 9225850, 44387884, 31293581, 26688294, 22210434, 36212758, 34436231, 25479072, 25606339, 29015485, 8460275, 8083310, 30224907, 10530014, 4345315, 52095986, 18895793, 26952804, 14644164, 5468807, 3863543, 34469966, 2825340, 5798227, 25974070, 6493422, 33397197, 10562341, 22843838, 16686383, 40608679, 22852120, 4664540, 8925851]}
+
+{"claim_id": 1, "doc_ids": [5956380, 4414547, 25901598]}
+
+{"claim_id": 1, "evidence": {"5956380": [6, 5], "4414547": [5], "25901598": []}}
+
+{"claim_id": 1, "labels": {"5956380": {"label": "SUPPORT", "confidence": 0.9767858982086182}, "4414547": {"label": "SUPPORT", "confidence": 0.7183284163475037}, "25901598": {"label": "NOT_ENOUGH_INFO", "confidence": 0.9870451092720032}}}
+
+

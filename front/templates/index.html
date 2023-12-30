@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>Scientific Claim Verification</title>
+    <style>
+        body {
+            background: linear-gradient(to bottom, #87CEEB, #FFFFFF);
+            background-size:cover;
+            background-repeat: no-repeat;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 50%;
+            margin: auto;
+            text-align: center;
+        }
+        .title {
+            font-size: 2em;
+            margin-top: 1em;
+        }
+        textarea, input[type=submit] {
+            width: 100%;
+            height: 200px;
+            border: none;
+            font-size: 1.2em;
+            margin-top: 1em;
+            padding: 1em;
+        }
+        input[type=submit] {
+            background-color: #87CEEB;
+            color: white;
+            font-size: 1.1em;
+            margin-top: 1em;
+            margin-bottom: 1em;
+            cursor: pointer;
+            width: 30%;
+            height: 3em;
+            margin: 0 30px;
+        }
+        .input-container {
+            display: flex;
+            justify-content: space-between;
+        }
+        .result {
+            text-align: justify;
+        }
+        .result p {
+            margin: 0;
+            padding: 0;
+            line-height: 1.6em;
+            background-color: #fff;
+        }
+        .result p:nth-child(3n+1) {
+            color: #aa1f1f;
+        }
+        .result p:nth-child(3n+2) {
+            color: #44740e;
+        }
+        .result p:nth-child(3n) {
+            color: #0c6188;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="title">Scientific Claim Verification</div>
+          
+        <form action="/" method="post">
+            <textarea name="text" id="text" placeholder="Input claim to validate:" maxlength="256">{{ text }}</textarea>
+            <br>
+            <input type="submit" value="Single Check">                  
+            <br>
+        </form>
+
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <br>
+            <input type="file" name="file">
+            <br>
+            <br>
+            <input type="submit" value="Batch Check">
+        </form>
+          
+        {% if result %}
+        <div class="result">
+            {% for paragraph in result.split('\n') %}
+            <p>{{ paragraph }}</p>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

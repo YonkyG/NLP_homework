@@ -1,0 +1,48 @@
+Claim: ADAR1 binds to Dicer to cleave pre-miRNA.
+Claim Label: SUPPORT
+No.1 Verification: NOT_ENOUGH_INFO
+Document Title: Phosphate and R2D2 restrict the substrate specificity of Dicer-2, an ATP-driven ribonuclease.
+Related Evidence: [1]: We find that purified Dicer-2 can efficiently cleave pre-miRNA, but that inorganic phosphate and the Dicer-2 partner protein R2D2 inhibit pre-miRNA cleavage.
+No.2 Verification: SUPPORT
+Document Title: ADAR1 Forms a Complex with Dicer to Promote MicroRNA Processing and RNA-Induced Gene Silencing
+Related Evidence: [1]: Most importantly, ADAR1 increases the maximum rate (Vmax) of pre-microRNA (miRNA) cleavage by Dicer and facilitates loading of miRNA onto RNA-induced silencing complexes, identifying a new role of ADAR1 in miRNA processing and RNAi mechanisms.
+No.3 Verification: NOT_ENOUGH_INFO
+Document Title: Stress-induced apoptosis associated with null mutation of ADAR1 RNA editing deaminase gene.
+Related Evidence: None
+
+Claim: AIRE is expressed in some skin tumors.
+Claim Label: SUPPORT
+No.1 Verification: SUPPORT
+Document Title: Keratin-dependent regulation of Aire and gene expression in skin tumor keratinocytes
+Related Evidence: [1]: We report that autoimmune regulator (Aire), a transcriptional regulator, is inducibly expressed in human and mouse tumor keratinocytes in a K17-dependent manner and is required for timely onset of Gli2-induced skin tumorigenesis in mice. [2]: The induction of Aire mRNA in keratinocytes depends on a functional interaction between K17 and the heterogeneous nuclear ribonucleoprotein hnRNP K. Further, K17 colocalizes with Aire protein in the nucleus of tumor-prone keratinocytes, and each factor is bound to a specific promoter region featuring an NF-¦ÊB consensus sequence in a relevant subset of K17- and Aire-dependent proinflammatory genes.
+No.2 Verification: NOT_ENOUGH_INFO
+Document Title: The Immune Response to Melanoma Is Limited by Thymic Selection of Self-Antigens
+Related Evidence: [1]: Similarly, the enlarged T cell repertoire in AIRE(-/-) mice enables them to mount anti-MAA and anti-melanoma responses as shown by increased anti-melanoma antibodies, and enhanced CD4(+) and MAA-specific CD8(+) T cell responses after melanoma challenge. [2]: TRP-2 (tyrosinase-related protein), on the other hand, is absent from TECs and consequently TRP-2 specific CD8(+) T cells were found in both AIRE(-/-) and AIRE(+/+) mice.
+No.3 Verification: NOT_ENOUGH_INFO
+Document Title: Aire deficiency promotes TRP-1-specific immune rejection of melanoma.
+Related Evidence: None
+
+Claim: ALDH1 expression is associated with better breast cancer outcomes.
+Claim Label: CONTRADICT
+No.1 Verification: NOT_ENOUGH_INFO
+Document Title: Macrophages induce COX-2 expression in breast cancer cells: role of IL-1¦Â autoamplification.
+Related Evidence: None
+No.2 Verification: NOT_ENOUGH_INFO
+Document Title: Oxidative stress in cancer associated fibroblasts drives tumor-stroma co-evolution: A new paradigm for understanding tumor metabolism, the field effect and genomic instability in cancer cells.
+Related Evidence: None
+No.3 Verification: CONTRADICT
+Document Title: ALDH1 is a marker of normal and malignant human mammary stem cells and a predictor of poor clinical outcome.
+Related Evidence: [1]: In a series of 577 breast carcinomas, expression of ALDH1 detected by immunostaining correlated with poor prognosis.
+
+Claim: 0-dimensional biomaterials show inductive properties.
+Claim Label: NOT_ENOUGH_INFO
+No.1 Verification: NOT_ENOUGH_INFO
+Document Title: In situ regulation of DC subsets and T cells mediates tumor regression in mice.
+Related Evidence: None
+No.2 Verification: NOT_ENOUGH_INFO
+Document Title: Three-dimensional chemical imaging of skin using stimulated Raman scattering microscopy
+Related Evidence: None
+No.3 Verification: NOT_ENOUGH_INFO
+Document Title: Epithelial and mesenchymal subpopulations within normal basal breast cell lines exhibit distinct stem cell/progenitor properties.
+Related Evidence: None
+
